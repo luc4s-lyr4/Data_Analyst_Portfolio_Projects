@@ -6,24 +6,21 @@ Instruções: Substitua tudo que estiver entre [colchetes] pelas informações d
 
 # 📊 [Nome do Projeto]
 
-> Performance das Landing Pages de mídia paga e melhor gestão do orçamento nas campanhas de Marketing.
+> Redução e otimização de orçamento de Marketing sobre Landing Pages com origem paid_search.
 
 ---
 
 ## 📌 **Objetivo**
-O objetivo deste projeto é [descrever de forma simples o que você quer descobrir ou analisar].  
-Exemplo: **"Identificar padrões de compra dos clientes para otimizar campanhas de marketing e aumentar as vendas."**
+O objetivo deste projeto é reduzir custo de Marketing e auxiliar na distribuição de orçamento de Landing Pages com origem paid_search.  
 
 ---
 
 ## 📂 **Estrutura do Projeto**
 ├── data/ # Conjunto de dados brutos e tratados
 
-├── notebooks/ # Notebooks Jupyter com as análises
+├── análise/ # Google Sheets (tabelas dinâmicas)
 
-├── scripts/ # Scripts Python/SQL para limpeza e transformação
-
-├── dashboards/ # Dashboards gerados (Power BI, Tableau, QuickSight, etc.)
+├── PPT/ # Gráficos gerados + recomendações
 
 ├── README.md # Documentação do projeto
 
@@ -31,17 +28,16 @@ Exemplo: **"Identificar padrões de compra dos clientes para otimizar campanhas 
 ---
 
 ## 📊 **Fonte de Dados**
-- **Origem:** [Fonte dos dados — Ex.: Kaggle, API do Pipedrive, arquivos internos etc.]
-- **Formato:** [CSV, Excel, JSON, SQL, etc.]
-- **Tamanho:** [Nº de linhas e colunas]
+- **Origem:** Kaggle: https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist/data
+- **Formato:** CSV
+- **Tamanho:** 842 linhas e 14 colunas.
 - **Observações:** [Limitações, filtros aplicados ou informações adicionais sobre os dados]
 
 ---
 
 ## 🛠 **Ferramentas e Tecnologias**
-- **Linguagens:** [Python, SQL, R...]
-- **Bibliotecas:** [Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn...]
-- **Visualização:** [Power BI / Tableau / Amazon QuickSight]
+- Google Sheets;
+- Power Point.
 
 ---
 
