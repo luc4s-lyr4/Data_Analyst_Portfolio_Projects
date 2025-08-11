@@ -1,9 +1,9 @@
 
 ---
 
-# 📊 **Etapas da análise**
+# 📊 **Processo de análise**
 
-1. **Coleta de Dados**
+1. **Coleta de Dados** - Download feito
 2. **Limpeza e Tratamento**
 3. **Análise Exploratória**
 4. **Visualizações**
