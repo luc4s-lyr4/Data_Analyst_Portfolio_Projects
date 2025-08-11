@@ -4,6 +4,7 @@ Autor: Lucas Lyra
 Instruções: Substitua tudo que estiver entre [colchetes] pelas informações do seu projeto
 -->
 
+
 # 📊 Redução e Otimização da verba de Campanhas de Landing Pages de Marketing.
 
 ## 📌 **Objetivo**
@@ -37,10 +38,10 @@ Reduzir o orçamento de Landing Pages de origem paga que não estão gerando res
 ## 🛠 **Recursos utilizados**
 - Google Sheets
 
-📄 Licença
-Este projeto está sob a licença MIT.
+---
 
+## 📲 **Meus contatos:**
 ✨ Autor
 Lucas Lyra
-📧 Email: [seu-email@example.com]
-🔗 LinkedIn | Portfólio
+📧 Email: lucaslyra200017@gmail.com
+🔗 LinkedIn | https://www.linkedin.com/in/lucas-lyra-18980a196/<br>
