@@ -17,7 +17,7 @@ Exemplo: **"Identificar padrões de compra dos clientes para otimizar campanhas 
 ---
 
 ## 📂 **Estrutura do Projeto**
-├── data/ # Conjunto de dados brutos e tratados
+├── data # Conjunto de dados brutos e tratados
 ├── notebooks/ # Notebooks Jupyter com as análises
 ├── scripts/ # Scripts Python/SQL para limpeza e transformação
 ├── dashboards/ # Dashboards gerados (Power BI, Tableau, QuickSight, etc.)
