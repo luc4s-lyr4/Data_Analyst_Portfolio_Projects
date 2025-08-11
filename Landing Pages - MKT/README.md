@@ -6,7 +6,7 @@ Instruções: Substitua tudo que estiver entre [colchetes] pelas informações d
 
 # 📊 [Nome do Projeto]
 
-> [Breve descrição do objetivo da análise. Ex.: "Análise de vendas de e-commerce para identificar produtos mais lucrativos e períodos de maior demanda."]
+> Performance das Landing Pages de mídia paga e melhor gestão do orçamento nas campanhas de Marketing.
 
 ---
 
