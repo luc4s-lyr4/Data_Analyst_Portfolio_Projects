@@ -7,6 +7,8 @@ Instruções: Substitua tudo que estiver entre [colchetes] pelas informações d
 
 # 📊 Redução e Otimização da verba de Campanhas de Landing Pages de Marketing.
 
+## 📌 **Contexto**
+
 ## 📌 **Objetivo**
 
 Reduzir o orçamento de Landing Pages de origem paga que não estão gerando resultado e realocar parte da verba de Marketing em Landing Pages com origem paga que estão gerando resultado em vendas.  
